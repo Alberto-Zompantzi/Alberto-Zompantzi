@@ -1,48 +1,162 @@
-# Alberto Zompantzi  
-Frontend Developer
+# 👋 Hola, soy Alberto Zompantzi
 
-I build functional and visually consistent interfaces using HTML, CSS, and JavaScript.  
-My work focuses on layout architecture, responsive design, and clear visual hierarchy.  
-This repository contains the source code of my public projects and experiments.
+### Modern Frontend Developer | React Specialist
 
----
-
-## Portfolio  
-Complete portfolio and project showcase:  
-https://alberto-zompantzi.github.io/Portfolio
+Desarrollo **interfaces modernas, escalables y orientadas al usuario**, aplicando arquitectura limpia, herramientas actuales y un enfoque profesional de desarrollo frontend.  
+Trabajo con **React + Vite**, priorizando rendimiento, mantenibilidad y experiencia de usuario.
 
 ---
 
-## Skills  
-**Core:**  
-- HTML5  
-- CSS3 (Flexbox, Grid, responsive layout patterns)  
-- JavaScript  
+## Perfil Profesional
 
-**Design & Assets:**  
-- Font Awesome  
-- Google Fonts  
+Frontend Developer especializado en **React** con enfoque en:
 
-**Additional:**  
-- Git & GitHub  
-- Semantic structure and accessibility fundamentals  
+- Arquitectura modular y escalable
+- Componentización reutilizable
+- Manejo de estado con Hooks
+- HTML semántico, SEO y accesibilidad
+- Diseño responsive y Mobile First
+- Flujo de trabajo profesional con Git
 
----
-
-## Current Work  
-I am developing a collection of small, focused projects to strengthen interface design, layout patterns, and frontend structure.  
-More repositories will be added over time as each project reaches the standard I aim for.
+Experiencia desarrollando **proyectos reales listos para producción**, aplicando buenas prácticas y estándares actuales de la industria.
 
 ---
 
-## Contact  
-For collaboration or inquiries:  
-- GitHub: https://github.com/alberto-zompantzi  
-- Email: alberto-zompantzi@outlook.com
-- Linkedin: https://www.linkedin.com/in/alberto-zompantzi-7897ab399/
-- Whatsapp: 228 572 0482
+## Stack Tecnológico
+
+### 💻 Lenguajes
+
+- JavaScript (ES6+)
+- TypeScript
+- Java
+- C++
 
 ---
 
-## Notes  
-All code in this account is authored by me.
+### ⚛️ Frontend Core
+
+- React.js (Vite)
+- HTML5 semántico
+- CSS3 moderno
+- SASS / PostCSS
+
+---
+
+### 📐 Layout & Responsive Design
+
+- Flexbox
+- CSS Grid
+- Media Queries
+- Mobile First Development
+
+---
+
+### 🧰 Herramientas & Workflow
+
+- Git & GitHub
+- GitFlow
+- VS Code
+- GitBash
+- Mockups
+- Photopea
+- Bootstrap
+- Tailwind css
+
+---
+
+## Especialización en React
+
+Experiencia sólida trabajando con:
+
+- Arquitecturas basadas en componentes
+- Estructuración profesional de carpetas
+- Hooks (`useState`, `useEffect`, custom hooks)
+- Flujo de datos unidireccional
+- JSX limpio y mantenible
+- Optimización de renderizado
+
+---
+
+## Metodologías y Estándares
+
+- Mobile First Development
+- Clean Code
+- Control de versiones con GitFlow
+- Accesibilidad (A11y)
+- SEO técnico para Frontend
+- Desarrollo orientado a producto
+
+---
+
+## Proyectos Seleccionados
+
+### 🔹 DivertiKids
+
+**Stack:** React (Vite), JavaScript, CSS moderno  
+**Objetivo:** Marca personal, escalabilidad y optimización SEO
+
+🔗 https://divertikids.netlify.app/
+
+**Impacto técnico:**
+
+> Diseñé una arquitectura React modular con separación clara de responsabilidades, mejorando mantenibilidad y facilitando futuras iteraciones del producto. Implementé componentes reutilizables y layouts flexibles que permiten escalar el sitio sin refactorizaciones mayores.
+
+---
+
+### 🔹 Portafolio
+
+**Stack:** JavaScript, CSS, HTML  
+**Objetivo:** Sitio web empresarial con diseño responsive
+
+🔗 https://albertozompantzi-portfolio.netlify.app/
+
+**Impacto técnico:**
+
+> Construí mi portafolio con una paleta de colores en variables css, al igual que varios parametros reutilizables. Estructuré el HTML para una fácil lectura, ocupe contenederos semánticos, meta etiquetas SEO friendly, incluyendo para whats app, facebook, x. La lógica está en Js, que es básicamente la sección del formulario de contacto que administra los mensajes recibidos y los dirije a un correo personal.
+
+---
+
+### 🔹 Casa Zompantzi
+
+**Stack:** HTML5 semántico, CSS moderno, JavaScript  
+**Objetivo:** Landing page orientada a conversión
+
+🔗 https://casazompantzi.netlify.app/
+
+**Impacto técnico:**
+
+> Apliqué HTML semántico y diseño responsive optimizado para mejorar experiencia de usuario y legibilidad para motores de búsqueda.
+
+---
+
+### 🔹 Sunnyside Boutique
+
+**Stack:** HTML5, CSS, JavaScript  
+**Objetivo:** UI moderna y adaptable
+
+🔗 https://sunnysideboutique.netlify.app/
+
+**Impacto técnico:**
+
+> Construí un layout moderno utilizando Flexbox y Grid, asegurando consistencia visual y adaptabilidad a distintos dispositivos.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=react" height="165"/>
+</p>
+
+---
+
+## 📫 Contacto Profesional
+
+- 🌐 Portafolio: https://albertozompantzi-portfolio.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/alberto-zompantzi/
+- 📧 Email: alberto-zompantzi@outlook.com
+
+---
+
+⭐ Siempre abierto a nuevos retos y oportunidades remotas.
