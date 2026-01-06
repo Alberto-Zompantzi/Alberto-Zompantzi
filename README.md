@@ -93,7 +93,7 @@ Experiencia sólida trabajando con:
 ### 🔹 DivertiKids
 
 **Stack:** React (Vite), JavaScript, CSS moderno  
-**Objetivo:** Marca personal, escalabilidad y optimización SEO
+**Objetivo:** Sitio web empresarial con diseño responsive
 
 🔗 https://divertikids.netlify.app/
 
@@ -106,7 +106,7 @@ Experiencia sólida trabajando con:
 ### 🔹 Portafolio
 
 **Stack:** JavaScript, CSS, HTML  
-**Objetivo:** Sitio web empresarial con diseño responsive
+**Objetivo:** Marca personal, escalabilidad y optimización SEO
 
 🔗 https://albertozompantzi-portfolio.netlify.app/
 
@@ -119,7 +119,7 @@ Experiencia sólida trabajando con:
 ### 🔹 Casa Zompantzi
 
 **Stack:** HTML5 semántico, CSS moderno, JavaScript  
-**Objetivo:** Landing page orientada a conversión
+**Objetivo:** Landing page orientada a mostrar un cátalogo de productos
 
 🔗 https://casazompantzi.netlify.app/
 
