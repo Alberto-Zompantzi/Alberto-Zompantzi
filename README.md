@@ -57,6 +57,8 @@ Experiencia desarrollando **proyectos reales listos para producción**, aplicand
 - GitFlow
 - VS Code
 - GitBash
+- Cloudflare
+- Netlify
 - Mockups
 - Photopea
 - Bootstrap
@@ -95,7 +97,7 @@ Experiencia sólida trabajando con:
 **Stack:** React (Vite), JavaScript, CSS moderno  
 **Objetivo:** Sitio web empresarial con diseño responsive
 
-🔗 https://divertikids.netlify.app/
+🔗 https://divertikids.pages.dev/
 
 **Impacto técnico:**
 
@@ -108,7 +110,7 @@ Experiencia sólida trabajando con:
 **Stack:** JavaScript, CSS, HTML  
 **Objetivo:** Marca personal, escalabilidad y optimización SEO
 
-🔗 https://albertozompantzi-portfolio.netlify.app/
+🔗 https://albertozompantzi-portfolio.pages.dev/
 
 **Impacto técnico:**
 
@@ -121,7 +123,7 @@ Experiencia sólida trabajando con:
 **Stack:** HTML5 semántico, CSS moderno, JavaScript  
 **Objetivo:** Landing page orientada a mostrar un cátalogo de productos
 
-🔗 https://casazompantzi.netlify.app/
+🔗 https://casazompantzi.pages.dev/
 
 **Impacto técnico:**
 
@@ -134,7 +136,7 @@ Experiencia sólida trabajando con:
 **Stack:** HTML5, CSS, JavaScript  
 **Objetivo:** UI moderna y adaptable
 
-🔗 https://sunnysideboutique.netlify.app/
+🔗 https://sunnysideboutique.pages.dev/
 
 **Impacto técnico:**
 
@@ -144,7 +146,7 @@ Experiencia sólida trabajando con:
 
 ## Contacto Profesional
 
-- 🌐 Portafolio: https://albertozompantzi-portfolio.netlify.app/
+- 🌐 Portafolio: https://albertozompantzi-portfolio.pages.dev/
 - 💼 LinkedIn: https://www.linkedin.com/in/alberto-zompantzi/
 - 📧 Email: alberto-zompantzi@outlook.com
 
