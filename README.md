@@ -1,78 +1,83 @@
-# Hola, soy Alberto Zompantzi
+# Hola, soy Alberto Zompantzi 👋
 
-### Software Engineer | Frontend Specialist (React & TypeScript)
+### Backend & Fullstack Engineer (Java / Spring Boot / React)
 
-Desarrollo **interfaces de alto rendimiento, escalables y orientadas al usuario**, aplicando arquitectura limpia, flujos de trabajo profesionales y un enfoque riguroso de ingeniería de software.  
-Especializado en el ecosistema **React + Vite**, priorizando la optimización de recursos, la mantenibilidad del código y la entrega de productos listos para producción.
+Diseño y desarrollo **APIs REST robustas con Java/Spring Boot** y las conecto con frontends modernos en **React o JavaScript vanilla**, desplegados en entornos productivos reales.  
+Me enfoco en arquitectura en capas, modelado de datos en **PostgreSQL/MySQL**, buenas prácticas (SOLID, DTOs, validación) y despliegues con **Docker, Render y Cloudflare Pages**.
 
 ---
 
 ## Perfil Profesional
 
-Ingeniero de Software con enfoque en **Desarrollo Frontend Seniority**, experto en:
+Ingeniero de Software con foco principal en **Backend Java/Spring Boot** dentro de contextos **Fullstack**:
 
-- **Arquitectura de Software:** Diseño modular y escalable bajo principios Clean Code.
-- **Ecosistema React:** Gestión avanzada de estado (Hooks API), componentización atómica y optimización de renderizado.
-- **Web Performance:** Especialista en Core Web Vitals, SEO técnico y accesibilidad (A11y).
-- **Ingeniería de Producto:** Desarrollo Mobile-First y transformación de requerimientos complejos en soluciones técnicas funcionales.
-- **Workflow Profesional:** Gestión de versiones mediante GitFlow y despliegue continuo (CI/CD).
+- **Arquitectura Backend:** Diseño de servicios REST, separación por capas (Controller, Service, Persistence), DTOs y manejo centralizado de errores.
+- **Gestión de Datos:** Modelado de entidades, relaciones y validaciones en **PostgreSQL (Neon)** y **MySQL** con JPA/Hibernate.
+- **Frontend Integrado:** Construcción de UIs en React o JS vanilla que consumen APIs propias, con énfasis en claridad, rendimiento y mobile-first.
+- **DevOps Ligero:** Contenerización con Docker, variables de entorno y despliegues en Render/Cloudflare Pages.
+- **Productividad:** Uso intensivo de terminal, Git/GitHub y herramientas de IA como **Cursor** y **Claude** para acelerar refactors, documentación y pruebas.
 
 ---
 
 ## Stack Tecnológico
 
-### Lenguajes
-
-- **JavaScript (ES6+)** / **TypeScript**
-- **Java** / **C++**
-
-### Frontend Core & UI
-
-- **React.js (Vite)**, HTML5 Semántico, CSS3 (SASS / PostCSS).
-- **Layout:** Flexbox, CSS Grid, Modern Responsive Design.
-- **Frameworks de Estilo:** Tailwind CSS, Bootstrap, Material Design.
-
-### Infraestructura & Workflow
-
-- **Control de Versiones:** Git, GitHub (GitFlow), GitBash.
-- **Cloud & Deployment:** Cloudflare Pages, Netlify.
-- **Herramientas:** VS Code, Photopea, Mockups.
+- **Lenguajes:** Java (17/21), JavaScript (ES6+), TypeScript (básico), C++ (bases).
+- **Backend:** Spring Boot 3, Spring Web, Spring Data JPA, Bean Validation, OpenAPI/Swagger.
+- **Bases de Datos:** PostgreSQL (Neon en producción), MySQL.
+- **Frontend:** React + Vite, HTML5 semántico, CSS3 (Grid/Flexbox, variables), JavaScript vanilla.
+- **Infraestructura & DevOps:** Docker, Render, Cloudflare Pages, variables de entorno y principios 12-factor.
+- **Herramientas:** Git, GitHub, Postman, terminal Bash, VS Code / Cursor.
 
 ---
 
 ## Proyectos Destacados en Producción
 
-### 🔹 DivertiKids | SPA Empresarial
+### 🔹 DivertiKids — Plataforma Fullstack de Reservas
 
-**Stack:** React (Vite), JavaScript (ES6+), JSON Data Mapping, CSS3 Moderno.  
-**Objetivo:** Plataforma interactiva para gestión de contenido dinámico.
+**Stack:** React 19 + Vite · Java/Spring Boot 3 · PostgreSQL · Docker · Cloudflare Pages · Render  
+**Rol:** Backend/Fullstack Engineer  
 
-- **Impacto Técnico:** Arquitecturé una **Single Page Application (SPA)** escalable con lógica de negocio desacoplada de la UI. Implementé una gestión de datos eficiente mediante estructuras JSON y componentes reutilizables, reduciendo el tiempo de mantenimiento y optimizando la velocidad de carga.
-- 🔗 [Ver Proyecto](https://divertikids.pages.dev/)
+- API REST de reservas (creación, consulta por email, cancelación) en Spring Boot, con validación de datos y persistencia en PostgreSQL.
+- Frontend en React que consume el API para gestionar reservas end-to-end, mejorando trazabilidad frente a la gestión solo por WhatsApp.
+- Documentación OpenAPI/Swagger y configuración de CORS para integración segura con el frontend.
+- Despliegue del backend en Render y del frontend en Cloudflare Pages con variables de entorno para credenciales y URLs.
+- 🔗 [Ver Frontend](https://divertikids.pages.dev/)
 
-### 🔹 Software Engineering Portfolio | High-Performance
+### 🔹 Portfolio Profesional — Ecosistema Fullstack Propio
 
-**Stack:** Vanilla JavaScript, HTML5 Semántico, CSS Custom Properties (Variables).  
-**Objetivo:** Showcase profesional con optimización extrema de rendimiento.
+**Stack:** Java/Spring Boot 3 · PostgreSQL (Neon) · Docker · JS Vanilla · HTML5 · CSS3 · EmailJS · Cloudflare Pages · Render  
+**Rol:** Software Engineer (diseño de ecosistema personal).  
 
-- **Impacto Técnico:** Construcción de una interfaz **Zero-Dependency** para maximizar la velocidad de carga. Implementé un sistema de diseño basado en variables CSS para escalabilidad visual y una lógica de backend-proxy para la gestión de leads a través de formularios, logrando un SEO friendly con meta-etiquetas de Open Graph integradas.
-- 🔗 [Ver Proyecto](https://albertozompantzi-portfolio.pages.dev/)
+- Backend con endpoint `/api/v1/contactos` para persistir mensajes de contacto en PostgreSQL (Neon), usando DTOs, servicios y repositorios JPA.
+- Frontend ligero en JS vanilla con HTML/CSS optimizado para rendimiento y SEO, conectado al backend y a EmailJS para notificaciones.
+- Arquitectura diseñada como demostración real de flujo Fullstack en producción.
+- 🔗 [Ver Portfolio](https://albertozompantzi-portfolio.pages.dev/)
 
-### 🔹 Casa Zompantzi | E-commerce Showcase
+### 🔹 Casa Zompantzi — Sitio Corporativo SEO-Oriented
 
-**Stack:** HTML5 Semántico, CSS3 (Flexbox/Grid), JavaScript.  
-**Objetivo:** Digitalización de catálogo comercial con enfoque en conversión local.
+**Stack:** React · React Router · CSS modular (Grid/Flexbox) · Vite · Cloudflare Pages  
 
-- **Impacto Técnico:** Optimización del **SEO técnico** y el renderizado en el lado del cliente para mejorar el posicionamiento orgánico. Desarrollo de una interfaz fluida bajo metodología **Mobile-First**, garantizando una experiencia de usuario consistente en dispositivos móviles.
+- SPA informativa para negocio familiar de plásticos con más de 50 años de operación.
+- Routing por secciones (inicio, historia, productos, sucursal) y diseño responsive basado en CSS Grid/Flexbox.
+- Metadatos, sitemap y robots.txt para mejorar SEO local y presencia en buscadores.
 - 🔗 [Ver Proyecto](https://casazompantzi.pages.dev/)
 
-### 🔹 Sunnyside Boutique | UI/UX Challenge
+### 🔹 Sunnyside Boutique — E-commerce Landing & UI Showcase
 
-**Stack:** Modern CSS (Grid/Flexbox), JavaScript Vanilla, Vite.  
-**Objetivo:** Landing page de alta fidelidad visual y adaptabilidad.
+**Stack:** HTML5 · CSS3 (Grid/Flexbox) · JavaScript vanilla · Cloudflare Pages  
 
-- **Impacto Técnico:** Resolución de problemas de jerarquía visual mediante layouts complejos de **CSS Grid**. Aseguré la accesibilidad y consistencia visual mediante el uso de estándares modernos de diseño responsivo.
+- Landing page de catálogo para moda femenina, construida sin frameworks para maximizar control sobre el layout y el rendimiento.
+- Catálogo dinámico renderizado desde estructuras de datos en JavaScript, con diseño mobile-first.
+- SEO y metadatos preparados para compartir en redes sociales y mejorar indexación.
 - 🔗 [Ver Proyecto](https://sunnysideboutique.pages.dev/)
+
+---
+
+## Certificaciones y Formación Complementaria (DataCamp)
+
+- **Ruta AWS Cloud Practitioner (CLF-C02)** — Fundamentos de computación en la nube, servicios principales de AWS, seguridad (IAM, mínimo privilegio) y gestión de costes.
+- **Git & GitHub Foundations** — Flujo completo con ramas, Pull Requests, Issues y colaboración estructurada en GitHub.
+- **Docker & Bash para Desarrollo** — Contenerización de servicios backend y automatización de tareas frecuentes desde terminal.
 
 ---
 
@@ -84,4 +89,4 @@ Ingeniero de Software con enfoque en **Desarrollo Frontend Seniority**, experto 
 
 ---
 
-⭐️ _Comprometido con la excelencia técnica y la resolución de problemas mediante código limpio._
+⭐️ _Enfocado en construir servicios backend sólidos y soluciones Fullstack listas para producción._
