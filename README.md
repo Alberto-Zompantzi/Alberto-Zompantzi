@@ -1,6 +1,6 @@
 # Hola, soy Alberto Zompantzi 👋
 
-### Backend & Fullstack Engineer (Java / Spring Boot / React)
+### Backend & Fullstack Engineer (Java / JavaScript / Spring Boot / React / HTML / CSS)
 
 Diseño y desarrollo **APIs REST robustas con Java/Spring Boot** y las conecto con frontends modernos en **React o JavaScript vanilla**, desplegados en entornos productivos reales.  
 Me enfoco en arquitectura en capas, modelado de datos en **PostgreSQL/MySQL**, buenas prácticas (SOLID, DTOs, validación) y despliegues con **Docker, Render y Cloudflare Pages**.
