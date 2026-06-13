@@ -1,4 +1,41 @@
-# Hola, soy Alberto Zompantzi 👋
+# ¡Hola! 👋 Bienvenidos al perfil de Alberto Zompantzi.
+
+### Tecnologías que utilizo
+![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Node.js](https://shields.io) ![React](https://shields.io) ![Angular](https://shields.io) ![MongoDB](https://shields.io) ![Express](https://shields.io)
+
+---
+
+### GitHub Stats
+<p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
+</p>
+
+---
+
+### Contribuciones y Actividad
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+---
+
+### Estadísticas Adicionales
+- ⭐️ **Cantidad de Stars recibidas:** ![Stars](https://shields.io)
+- 👥 **Seguidores:** ![Followers](https://shields.io)
+
+---
+
+### ¡Conéctate conmigo!
+<p align="left">
+  <a href="https://linkedin.com/alberto-zompantzi" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alberto-zompantzi@outlook.com" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
 
 ### Backend & Fullstack Engineer (Java / JavaScript / Spring Boot / React / HTML / CSS)
 
