@@ -1,16 +1,28 @@
-# ¡Hola! 👋 Bienvenidos al perfil de Alberto Zompantzi.
+# ¡Hola! 👋 Bienvenidos al perfil de Alberto Zompantzi
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://albertozompantzi-portfolio.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alberto-zompantzi)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alberto-Zompantzi)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]((mailto:alberto-zompantzi@outlook.com))
+
+
+<p align="center">
+<img width="500" height="300" alt="Logo" align="center" src="https://github.com/user-attachments/assets/a61b8ddb-891f-4447-8360-8ee7011a2a04"  />
+</p>
 
 ### Tecnologías que utilizo
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=&logo=JavaScript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=&logo=Spring&logoColor=black)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=React&logoColor=black)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=plastic&logo=PostgreSQL&logoColor=black)
+![Java](https://img.shields.io/badge/Java-F80000?style=&logo=ojava&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=&logo=Spring&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=React&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=&logo=PostgreSQL&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=Docker&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=Docker&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=&logo=github-copilot&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=&logo=swagger&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=&logo=datacamp&logoColor=03E860)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=&logo=freecodecamp&logoColor=green)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=&logo=apachemaven&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=&logo=Cloudflare&logoColor=white)
@@ -22,14 +34,20 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=&logo=c%2B%2B&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=&logo=markdown&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=&logo=Hibernate&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=&logo=Gradle&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=&logo=vite&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=&logo=Cursor&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=&logo=intellij-idea&logoColor=white)
+![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=&logo=jetbrains&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=&logo=apache-netbeans-ide&logoColor=white)
+![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=&logo=visual-studio-code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=&logo=postman&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=&logo=prettier&logoColor=black)
 ---
 
 ### GitHub Stats
@@ -47,15 +65,27 @@
 ![alberto-zompantzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-zompantzi&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 
-### ¡Conéctate conmigo!
-<p align="left">
-  <a href="https://linkedin.com/alberto-zompantzi" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alberto-zompantzi@outlook.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+## Índice
+
+* [👋 Portada](#hola--bienvenidos-al-perfil-de-alberto-zompantzi)
+* [🏅 Insignias de Contacto](#insignias-de-contacto)
+* [📊 GitHub Stats y Actividad](#github-stats)
+* [👤 Perfil Profesional](#perfil-profesional)
+* [🛠️ Stack Tecnológico](#stack-tecnológico)
+* [📂 Proyectos Destacados en Producción](#proyectos-destacados-en-producción)
+  * [🔹 DivertiKids — Plataforma Fullstack de Reservas](#divertikids--plataforma-fullstack-de-reservas)
+  * [🔹 Portfolio Profesional — Ecosistema Fullstack Propio](#portfolio-profesional--ecosistema-fullstack-propio)
+  * [🔹 Casa Zompantzi — Sitio Corporativo SEO-Oriented](#casa-zompantzi--sitio-corporativo-seo-oriented)
+  * [🔹 Sunnyside Boutique — E-commerce Landing & UI Showcase](#sunnyside-boutique--e-commerce-landing--ui-showcase)
+* [📜 Certificaciones y Formación](#certificaciones-y-formación-complementaria-datacamp)
+* [🚀 Estado del Proyecto (Mi Enfoque Actual)](#estado-del-proyecto-mi-enfoque-actual)
+* [🤝 Personas Contribuyentes y Colaboración](#personas-contribuyentes-y-colaboración)
+* [⚖️ Licencia](#licencia)
+* [🏁 Conclusión](#conclusión)
+
+---
+
+
 
 
 ### Backend & Fullstack Engineer (Java / JavaScript / Spring Boot / React / HTML / CSS)
