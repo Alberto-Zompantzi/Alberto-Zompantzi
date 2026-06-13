@@ -1,7 +1,19 @@
 # ¡Hola! 👋 Bienvenidos al perfil de Alberto Zompantzi.
 
 ### Tecnologías que utilizo
-![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Node.js](https://shields.io) ![React](https://shields.io) ![Angular](https://shields.io) ![MongoDB](https://shields.io) ![Express](https://shields.io)
+![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Node.js](https://shields.io) ![React](https://shields.io) ![Angular](https://shields.io) ![MongoDB](https://shields.io) ![Express](https://shields.io)  https://img.shields.io/badge/github-repo-blue?logo=github
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=&logo=JavaScript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=&logo=Spring&logoColor=black)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=React&logoColor=black)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=plastic&logo=PostgreSQL&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=Docker&logoColor=black)
+
+
+
+
+
 
 ---
 
